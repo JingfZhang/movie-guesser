@@ -19,7 +19,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0",
     "css-loader": "0.26.1",
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "6.0.0"
   },
   "scripts": {
